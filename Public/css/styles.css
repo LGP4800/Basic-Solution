@@ -8,16 +8,12 @@ body{
 section{
   display: grid;
   align-content: center;
-  min-height: 50vh;
+  min-height: 80vh;
 }
 
-a{
-font-family: courier;
-font-size: 4rem;
-}
 
 .container-fluid{
-  padding: 3% 15%;
+  padding: 2% 15%;
 }
 
 .logo{
